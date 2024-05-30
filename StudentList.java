@@ -81,7 +81,6 @@ public class StudentList {
 	        // Проверка на наличие имени ученика в списке
 	        for(String stroke : list) {
 	            String name = (stroke.split(" "))[0].trim();
-	            System.out.println(name + " - " + choice);
 	            if(choice.equals(name)) {
 	                studentHere = true;
 	                break;
