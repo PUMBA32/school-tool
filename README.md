@@ -8,5 +8,5 @@ Before start you need to open LoginRegistrationSystem.java and StudentList.java 
 
 
 ### Bit about it
-Currently, this program is most hardest my project in java. Maybe this program can has some litle bugs, so sorry in advance)
+Currently, this program is most hardest my project in java. Maybe this program can has some little bugs, so sorry in advance)
 Usless fact: I wrote it in a couple of days and this program has ~300 lines of code.
